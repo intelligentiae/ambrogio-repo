@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 all
+Codename: stable
+Components: main
+Date: Wed, 17 Dec 2025 13:59:41 +0000
+Label: Ambrogio
+Origin: Ambrogio Repository
+Suite: stable
+MD5Sum:
+ 942779eb6430a3bb9a00d85913dd0614              155 Release
+ f2b60575a32cef91816cc6b90edd8eaf              509 main/binary-all/Packages
+ 9e474f1c48d44c25979f71d989a1b5d9              376 main/binary-all/Packages.gz
+ f2b60575a32cef91816cc6b90edd8eaf              509 main/binary-amd64/Packages
+ 9e474f1c48d44c25979f71d989a1b5d9              376 main/binary-amd64/Packages.gz
+SHA1:
+ d30a54e259d1bb88e1ec5bf182b4fd4422d240d1              155 Release
+ 42f9d434fc445d815fde9be4d8d99010cb1214bd              509 main/binary-all/Packages
+ 8daecc4e81f695f33eadb7c20402d6ed928d3f45              376 main/binary-all/Packages.gz
+ 42f9d434fc445d815fde9be4d8d99010cb1214bd              509 main/binary-amd64/Packages
+ 8daecc4e81f695f33eadb7c20402d6ed928d3f45              376 main/binary-amd64/Packages.gz
+SHA256:
+ 6a6afa4888bc0fa0d17ef7187da8ff86b540f710a41b4a3fb9b16e1beb920736              155 Release
+ 60a53825b0d54e8a194bfcbeacf9c8c4520b0190e8011fa334d87f867757bb34              509 main/binary-all/Packages
+ 298f9c00bcf645dc9f052793acce689314fb726d1408b947d2973e0c120e14eb              376 main/binary-all/Packages.gz
+ 60a53825b0d54e8a194bfcbeacf9c8c4520b0190e8011fa334d87f867757bb34              509 main/binary-amd64/Packages
+ 298f9c00bcf645dc9f052793acce689314fb726d1408b947d2973e0c120e14eb              376 main/binary-amd64/Packages.gz
+SHA512:
+ 7f4ef6818e1f3b3dff20ab688d1a18513d707c7c2d773b058bfa37348582bcf7ec1e1a93d7a209aa2d3b2c6df846556275ed9479ab7188db4a6aa123a558ef04              155 Release
+ 18d08fa320bbfbdd90ec050dd1b3452e8efc3ad327ec315d0375c11637d724210090199ac4a1b63aafb6deda979f7b82f5e2b08394d0e816278fa2d35edd832d              509 main/binary-all/Packages
+ 0e338e59f60af7f5388f33958709b7566317491fd630469058daf47c6c607f32981e5fb9827589cbc8416e714a360e9dc1ff01d4d7cc6cfacfeed2b16c84097a              376 main/binary-all/Packages.gz
+ 18d08fa320bbfbdd90ec050dd1b3452e8efc3ad327ec315d0375c11637d724210090199ac4a1b63aafb6deda979f7b82f5e2b08394d0e816278fa2d35edd832d              509 main/binary-amd64/Packages
+ 0e338e59f60af7f5388f33958709b7566317491fd630469058daf47c6c607f32981e5fb9827589cbc8416e714a360e9dc1ff01d4d7cc6cfacfeed2b16c84097a              376 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQSrbnYqwn17ERkD1/BYsABO/kTkjgUCaUK3TgAKCRBYsABO/kTk
+jlj0AQCXisV+Xy8gQ5AewpyF4sIUxvNQUcSAgcLO72rm8KiN8QD/eFlzydpGKBad
+f1nuewQ6hfTD8AGeaMIXLA5cy10FyQw=
+=efu2
+-----END PGP SIGNATURE-----

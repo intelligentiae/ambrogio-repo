@@ -1,14 +1,14 @@
 Package: ambrogio-agent
-Version: 0.1.61
+Version: 0.1.62
 Architecture: all
 Maintainer: Intelligentiae Srl <ambrogio-gest@intelligentiae.it>
 Installed-Size: 59
 Depends: python3, python3-requests
-Filename: pool/main/a/ambrogio-agent/ambrogio-agent_0.1.61_all.deb
-Size: 11162
-MD5sum: b3b786af9dc05dd2d9e91802d5f8f743
-SHA1: 0ea89da6adb7f5d9afe5666f0071db5f24c2d5ea
-SHA256: 2354bd8303f7a9e1dc328b48f7e10b9dbdf531d549d06e5e861b378d64cf90b5
+Filename: pool/main/a/ambrogio-agent/ambrogio-agent_0.1.62_all.deb
+Size: 11234
+MD5sum: 7c52d0d2cd31e069018d2a2f054df6cb
+SHA1: 6b66a151b7007f02b3933c772569baca624e70b5
+SHA256: a35ba1106f1746c32cfa1a63355480c064f15627c93b0844a38efaa8339c2167
 Section: utils
 Priority: optional
 Description: Esecuzione di comandi remoti su server gestiti dal progetto Ambrogio

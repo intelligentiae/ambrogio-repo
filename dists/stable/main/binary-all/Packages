@@ -1,16 +1,19 @@
 Package: ambrogio-agent
-Version: 0.1.99
+Version: 0.1.100
 Architecture: all
 Maintainer: Intelligentiae Srl <ambrogio-gest@intelligentiae.it>
-Installed-Size: 119
+Installed-Size: 1619
 Depends: python3, python3-requests
 Recommends: python3-dotenv, bsd-mailx | mailutils
-Filename: pool/main/a/ambrogio-agent/ambrogio-agent_0.1.99_all.deb
-Size: 21830
-MD5sum: 05eca2a6a3c9aa576dd85b4a6f28d6c0
-SHA1: e50ba809e56820e2829c344b0c7ed70a78a915df
-SHA256: 236f6d7e26180c9e6c211ffa5020f3c266dd8e07cd7659690d9de042a59b76a9
+Filename: pool/main/a/ambrogio-agent/ambrogio-agent_0.1.100_all.deb
+Size: 254050
+MD5sum: b64f88719c43f8a90ffd15e6ad71ce2e
+SHA1: 98538d3dfbbc0be6ebb3027d83a2f91040fbdf1a
+SHA256: 654b822bfde1614a9038271c899ab15fdbdb0fbb8e61001b7044900f46679c61
 Section: utils
 Priority: optional
 Description: Esecuzione di comandi remoti su server gestiti dal progetto Ambrogio
+ .
+ Il pacchetto include sentry-sdk come dipendenza vendored per garantire
+ controllo sulla versione e indipendenza dai pacchetti Debian obsoleti.
 

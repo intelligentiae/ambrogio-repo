@@ -1,15 +1,15 @@
 Package: ambrogio-agent
-Version: 2.0.0
+Version: 2.0.4
 Architecture: all
 Maintainer: Intelligentiae Srl <ambrogio-gest@intelligentiae.it>
-Installed-Size: 2245
+Installed-Size: 2282
 Depends: python3, python3-requests
 Recommends: python3-dotenv, bsd-mailx | mailutils
-Filename: pool/main/a/ambrogio-agent/ambrogio-agent_2.0.0_all.deb
-Size: 330270
-MD5sum: 2b6903087a99cd09fe236bfa888b95a5
-SHA1: 7c53a2b37f33d92886c70bd95e7f1d5ebc95aa0c
-SHA256: 9e2bc6fa956914a8cc788b29374e6948836c3ccf8828d7403973f8eed83de96b
+Filename: pool/main/a/ambrogio-agent/ambrogio-agent_2.0.4_all.deb
+Size: 334416
+MD5sum: c0b62c4219e77826fa6a95ccb03f7b60
+SHA1: f0564bd87e024b251044bcf49e625cf4ae51bc43
+SHA256: c1fd0f22fee7b1cd899e604d5f93ee9f93c0fa9fce3b1c040ced6e729cb91e92
 Section: utils
 Priority: optional
 Description: Esecuzione di comandi remoti su server gestiti dal progetto Ambrogio
